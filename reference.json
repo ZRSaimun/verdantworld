@@ -1,0 +1,21 @@
+{
+  "title": "Step into the living world \u2014 reference excerpts",
+  "creator": "Badar Munir",
+  "source": "https://www.facebook.com/reel/2127447631462628",
+  "width": 480,
+  "height": 300,
+  "cols": 8,
+  "frames": 6,
+  "chapters": [
+    {
+      "progress": 0,
+      "label": "The living world"
+    },
+    {
+      "progress": 0.55,
+      "label": "Floating habitat"
+    }
+  ],
+  "mode": "frames",
+  "limitation": "Only two short example cards are shown in the tutorial; this is not a complete underlying website."
+}
